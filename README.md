@@ -1,7 +1,7 @@
 # EM
 Electronics and microcontollers course for M21
 
-[![Test Status](https://github.com/tomssem/EM/workflows/EM_CI/badge.svg)](https://github.com/tomssem/EM/actions)
+[![Test Status](https://github.com/tomssem/EM/workflows/ElectronicsMicrocontrollers_CI/badge.svg)](https://github.com/tomssem/EM/actions)
 
 ## Dev environment:
 ### Docker container
