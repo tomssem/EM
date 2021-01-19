@@ -19,7 +19,7 @@ jobs:
       - uses: actions/checkout@v2
 
       - name: Build code
-        run: pio run > build.log
+        run: pio run -v > build.log
       - name: Archive build output
         uses: actions/upload-artifact@v2
         with:
