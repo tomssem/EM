@@ -28,5 +28,5 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Build code
-        echo: "`ls /etc`"
+        run: echo `ls /etc`
         run: pio run
